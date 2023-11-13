@@ -16,7 +16,7 @@ import (
 
 	"github.com/gorilla/handlers"
 
-	conf "github.com/kratos-bootstrap/kratos-bootstrap/gen/api/go/conf/v1"
+	conf "github.com/kratos-admin/kratos-bootstrap/gen/api/go/conf/v1"
 )
 
 // CreateRestServer 创建REST服务端

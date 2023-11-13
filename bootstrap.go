@@ -6,7 +6,7 @@ import (
 	"github.com/go-kratos/kratos/v2/log"
 	"github.com/go-kratos/kratos/v2/registry"
 
-	conf "github.com/kratos-bootstrap/kratos-bootstrap/gen/api/go/conf/v1"
+	conf "github.com/kratos-admin/kratos-bootstrap/gen/api/go/conf/v1"
 )
 
 // Bootstrap 应用引导启动

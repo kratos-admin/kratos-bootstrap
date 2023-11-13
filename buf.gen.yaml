@@ -6,7 +6,7 @@ managed:
   optimize_for: SPEED
 
   go_package_prefix:
-    default: github.com/kratos-bootstrap/kratos-bootstrap/gen/api/go
+    default: github.com/kratos-admin/kratos-bootstrap/gen/api/go
     except:
       - 'buf.build/googleapis/googleapis'
       - 'buf.build/envoyproxy/protoc-gen-validate'

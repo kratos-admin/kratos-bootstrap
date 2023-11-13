@@ -20,7 +20,7 @@ import (
 
 	kratosGrpc "github.com/go-kratos/kratos/v2/transport/grpc"
 
-	conf "github.com/kratos-bootstrap/kratos-bootstrap/gen/api/go/conf/v1"
+	conf "github.com/kratos-admin/kratos-bootstrap/gen/api/go/conf/v1"
 )
 
 const defaultTimeout = 5 * time.Second
