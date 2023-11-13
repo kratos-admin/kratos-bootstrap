@@ -2,10 +2,11 @@ package bootstrap
 
 import (
 	"fmt"
+
 	"github.com/go-kratos/kratos/v2/log"
 	"github.com/go-kratos/kratos/v2/registry"
 
-	conf "github.com/tx7do/kratos-bootstrap/gen/api/go/conf/v1"
+	conf "github.com/kratos-bootstrap/kratos-bootstrap/gen/api/go/conf/v1"
 )
 
 // Bootstrap 应用引导启动
